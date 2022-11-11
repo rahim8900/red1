@@ -2,7 +2,6 @@ let body = document.querySelector('body');
 let lovhe = document.querySelector('.lovhe');
 let red = document.querySelector('.red');
 let blue = document.querySelector('.blue');
-let imgboom = document.querySelector('boom');
 let s = 1;
 red.addEventListener('click', fred);
 blue.addEventListener('click', fblue1);
